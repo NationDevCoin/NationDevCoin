@@ -20,6 +20,5 @@
 * 코인을 지급받은 국민은 발전했으면 하는 국가 부서에 코인을 지급함.
 * 부서는 국민에게 받은 코인을 가지고 부서를 운영함.
 
+## 로드맵
 ![default](https://user-images.githubusercontent.com/26127395/44015901-b3ac3ba0-9f0d-11e8-9dbf-b7c5ab439803.png)
-
-

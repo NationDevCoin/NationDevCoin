@@ -22,3 +22,21 @@
 
 ## 로드맵
 ![default](https://user-images.githubusercontent.com/26127395/44015901-b3ac3ba0-9f0d-11e8-9dbf-b7c5ab439803.png)
+
+1. 국가에 세금 납부 
+from : 국민
+to : 국가 
+
+2. 국가가 각 기관에 기본 운영비 지금 
+from : 국가 
+to : 기관 
+
+3. 국가가 국민에게 일정코인을 지급 
+from : 국가 
+to :국민 
+
+4. 국민은 원하는 기관에게 코인 지급 
+from : 국민 
+to : 기관 
+
+5. 기관은 가진 코인을 가지고 기관 운영 
